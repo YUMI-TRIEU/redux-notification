@@ -1,4 +1,3 @@
-import CartItem from "../Cart/CartItem";
 import ProductItem from "./ProductItem";
 import classes from "./Products.module.css";
 
